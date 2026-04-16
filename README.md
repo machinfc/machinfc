@@ -28,7 +28,7 @@ and scientific computing.
      **Ionospheric Modeling**
 - 💼 Currently: **Head of Operations** at 
      [Mavochisa](https://www.mavochisa.com/)
-- 🛠️ Building: [`craterslab`](https://github.com/machinfc/craterslab) 
+- 🛠️ Building: [`craterslab`](https://github.com/gvieralopez/craterslab) 
      — open-source Python library for crater morphology analysis
 - 🐍 Expanding Python skills into **Machine Learning** 
      and **Web Development**, with a foundation in data analysis
