@@ -103,7 +103,7 @@ and scientific computing.
 
 ## 📌 Featured Projects
 
-### 🪨 [`craterslab`](https://github.com/machinfc/craterslab)
+### 🪨 [`craterslab`](https://github.com/gvieralopez/craterslab)
 > Open-source Python library for automated morphological analysis 
 > of impact craters using LiDAR-based 3D surface mapping.
 > Developed as part of my Ph.D. research at UASLP.
