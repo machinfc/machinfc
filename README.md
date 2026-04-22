@@ -24,19 +24,12 @@ production-grade software engineering.
 
 - 🌍 Based in **Mexico**
 - 🎓 **Ph.D. in Engineering & Materials Science** — UASLP, Mexico
-- 🔬 Research focus: **Complex Systems**, **Granular Media**,
-     **Ionospheric Modeling**
-- 💼 Currently: **Head of Operations** at
-     [Mavochisa](https://www.mavochisa.com/)
-- 🛠️ Building: [`craterslab`](https://github.com/gvieralopez/craterslab)
-     — open-source Python library for crater morphology analysis via LiDAR
-- 🚀 Expanding into **Software Engineering (SWE)**, focusing on
-     **Modern C++ (C++17/20)**, **GPU Acceleration (CUDA)**, and
-     **High-Performance Computing (HPC)**
-- ☁️ Building cloud expertise in **AWS** to scale scientific and
-     computational workloads
-- 🤝 Open to collaborating on **Open Source**, **HPC**, and
-     **Scientific Computing** projects
+- 🔬 Research focus: **Complex Systems**, **Granular Media**, **Ionospheric Modeling**
+- 💼 Currently: **Head of Operations** at [Mavochisa](https://www.mavochisa.com/)
+- 🛠️ Building: [`craterslab`](https://github.com/gvieralopez/craterslab) — open-source Python library for crater morphology analysis via LiDAR
+- 🚀 Expanding into **Software Engineering (SWE)**, focusing on **Modern C++ (C++17/20)**, **GPU Acceleration (CUDA)**, and **High-Performance Computing (HPC)**
+- ☁️ Building cloud expertise in **AWS** to scale scientific and computational workloads
+- 🤝 Open to collaborating on **Open Source**, **HPC**, and **Scientific Computing** projects
 - ✉️ Reach me at [frankcm.work@gmail.com](mailto:frankcm.work@gmail.com)
 
 ---
@@ -44,6 +37,7 @@ production-grade software engineering.
 ## 🚀 Skills & Tools
 
 ### 💻 Programming Languages
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
@@ -64,6 +58,7 @@ production-grade software engineering.
 </p>
 
 ### 🛠️ Tools & Platforms
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
@@ -96,6 +91,7 @@ production-grade software engineering.
 </p>
 
 ### 🔬 Simulation & Scientific Computing
+
 <p align="left">
   <img src="https://img.shields.io/badge/COMSOL-e84c0a?style=flat&logoColor=white"
   height="28" alt="COMSOL" title="COMSOL"/>
@@ -112,6 +108,7 @@ production-grade software engineering.
 </p>
 
 ### 📚 Currently Learning
+
 <p align="left">
   <img src="https://img.shields.io/badge/Modern_C++17/20-00599C?style=flat&logo=cplusplus&logoColor=white"
   height="28" alt="Modern C++" title="Modern C++ (C++17/20)"/>
@@ -128,9 +125,51 @@ production-grade software engineering.
 ## 📌 Featured Projects
 
 ### 🪨 [`craterslab`](https://github.com/gvieralopez/craterslab)
+
 > Open-source Python library for automated morphological analysis
 > of impact craters using LiDAR-based 3D surface mapping.
 > Developed as part of my Ph.D. research at UASLP.
 
-```python
-pip install craterslab
+**Key contributions:**
+- Automated 3D surface reconstruction from LiDAR point clouds
+- Morphological feature extraction for impact crater analysis
+- Published as part of peer-reviewed research in *Granular Matter*
+
+---
+
+### ⚡ `granular-physics-cpp` *(In Progress)*
+
+> High-performance C++ reimplementation of granular media simulations
+> from my Ph.D. research. Optimized with modern C++17, CMake, and
+> GPU acceleration via CUDA. CI/CD pipeline running on AWS EC2.
+
+**Stack:** `C++17` · `CUDA` · `CMake` · `Google Test` · `GitHub Actions` · `AWS`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=machinfc&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=machinfc&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 📄 Publications
+
+- **F.C. Machín** et al. — *Physical Review E* · Complex systems & granular dynamics
+- **F.C. Machín** et al. — *Granular Matter* · Crater morphology & LiDAR analysis
+
+> 📚 Full list: [Google Scholar](https://scholar.google.com/citations?hl=es&user=nS6sCd4AAAAJ)
+
+---
+
+<div align="center">
+
+*"Physics tells you what is possible. Engineering makes it real. HPC makes it fast."*
+
+</div>
