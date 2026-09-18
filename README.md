@@ -1,3 +1,10 @@
+<!-- ==========================================================================
+  GENERADO AUTOMÁTICAMENTE por build.py desde templates/readme_github.md.tpl
+  NO EDITES ESTE ARCHIVO: los cambios se pierden al regenerar.
+  Edita: data/profile.jsonc (datos) o templates/readme_github.md.tpl (texto)
+  Regenerar: python3 build.py render
+=========================================================================== -->
+
 <div align="center">
 
 # Frank C. Machín
@@ -8,7 +15,7 @@ Ph.D. in Engineering & Applied Physics — I build performance-critical software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/machinlab)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:frankcm.work@gmail.com)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=es&user=nS6sCd4AAAAJ)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nS6sCd4AAAAJ)
 ![Location](https://img.shields.io/badge/San_Luis_Potosí-Mexico-6E7681?style=flat-square)
 
 </div>
@@ -17,7 +24,7 @@ Ph.D. in Engineering & Applied Physics — I build performance-critical software
 
 ### About
 
-I come from computational physics — CUDA kernels, DEM/FEM simulation, and LiDAR data pipelines — and now write production C++: CMake, GoogleTest, CI/CD, profiling-driven optimisation. My focus is **performance**: understanding the memory hierarchy, measuring before optimising, and turning research-grade code into maintainable systems software.
+I come from computational physics — CUDA kernels, DEM/FEM simulation, and LiDAR data pipelines — and now write production C++: CMake, GoogleTest, CI/CD, profiling-driven optimization. My focus is **performance**: understanding the memory hierarchy, measuring before optimizing, and turning research-grade code into maintainable systems software.
 
 **Current focus:** modern C++17/20 and GPU acceleration (CUDA), scaling simulations with OpenMP and MPI, and reproducible HPC workflows on cloud infrastructure.
 
@@ -27,9 +34,9 @@ I come from computational physics — CUDA kernels, DEM/FEM simulation, and LiDA
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[granimpact](https://github.com/machinfc)** *(in progress)* | Production reimplementation of my Ph.D. granular-impact simulations: cell-linked-list neighbour search, energy-conserving validation tests, documented strong/weak scaling benchmarks | `C++17` `CUDA` `OpenMP` `CMake` `GoogleTest` |
+| **[granimpact](https://github.com/machinfc)** *(in progress)* | Production reimplementation of my Ph.D. granular-impact simulations: cell-linked-list neighbor search, energy-conserving validation tests, documented strong/weak scaling benchmarks | `C++17` `CUDA` `OpenMP` `CMake` `GoogleTest` |
 | **[craterslab](https://github.com/gvieralopez/craterslab)** | Open-source Python library for automated 3D crater morphology analysis from LiDAR point clouds. Peer-reviewed result in *Granular Matter*; installable package with tests, docs and CLI workflows | `Python` `NumPy` `SciPy` `LiDAR` |
-| **GPU Monte Carlo kernels** | CUDA port of photon-transport Monte Carlo kernels for photodynamic-therapy modelling, with speed-up measured against the serial CPU baseline | `CUDA` `C++` |
+| **GPU Monte Carlo kernels** | CUDA port of photon-transport Monte Carlo kernels for photodynamic-therapy modeling, with speed-up measured against the serial CPU baseline | `CUDA` `C++` |
 
 ---
 
@@ -49,7 +56,7 @@ Cloud         AWS (EC2, S3, ParallelCluster — in progress)
 ### Publications
 
 First-author peer-reviewed work in *Physical Review E* (complex systems, granular dynamics) and *Granular Matter* (crater morphology, LiDAR).
-Full record → [Google Scholar](https://scholar.google.com/citations?hl=es&user=nS6sCd4AAAAJ)
+Full record → [Google Scholar](https://scholar.google.com/citations?user=nS6sCd4AAAAJ)
 
 ---
 
