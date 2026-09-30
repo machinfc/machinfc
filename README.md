@@ -1,10 +1,3 @@
-<!-- ==========================================================================
-  GENERADO AUTOMÁTICAMENTE por build.py desde templates/readme_github.md.tpl
-  NO EDITES ESTE ARCHIVO: los cambios se pierden al regenerar.
-  Edita: data/profile.jsonc (datos) o templates/readme_github.md.tpl (texto)
-  Regenerar: python3 build.py render
-=========================================================================== -->
-
 <div align="center">
 
 # Frank C. Machín
@@ -56,7 +49,7 @@ Cloud         AWS (EC2, S3, ParallelCluster — in progress)
 ### Publications
 
 First-author peer-reviewed work in *Physical Review E* (complex systems, granular dynamics) and *Granular Matter* (crater morphology, LiDAR).
-Full record → [Google Scholar](https://scholar.google.com/citations?user=nS6sCd4AAAAJ)
+Full record → [Google Scholar](https://scholar.google.com/citations?user=nS6sCd4AAAAJ&hl=en)
 
 ---
 
