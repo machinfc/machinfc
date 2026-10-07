@@ -27,7 +27,7 @@ I come from computational physics — CUDA kernels, DEM/FEM simulation, and LiDA
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[granimpact](https://github.com/machinfc)** *(in progress)* | Production reimplementation of my Ph.D. granular-impact simulations: cell-linked-list neighbor search, energy-conserving validation tests, documented strong/weak scaling benchmarks | `C++17` `CUDA` `OpenMP` `CMake` `GoogleTest` |
+| **[granimpact](https://github.com/machinfc/granimpact.git)** *(in progress)* | Production reimplementation of my Ph.D. granular-impact simulations: cell-linked-list neighbor search, energy-conserving validation tests, documented strong/weak scaling benchmarks | `C++17` `CUDA` `OpenMP` `CMake` `GoogleTest` |
 | **[craterslab-analysis-toolkit](https://github.com/machinfc/craterslab-analysis-toolkit)** | An interactive Python toolkit for crater analysis, visualization, correction, and sensor-based depth map acquisition from laboratory and planetary datasets. | `Python` `NumPy` `SciPy` `LiDAR` |
 | **GPU Monte Carlo kernels** | CUDA port of photon-transport Monte Carlo kernels for photodynamic-therapy modeling, with speed-up measured against the serial CPU baseline | `CUDA` `C++` |
 
